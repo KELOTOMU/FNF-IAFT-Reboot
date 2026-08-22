@@ -1,0 +1,270 @@
+{
+	"camera_boyfriend": [
+		-150,
+		50
+	],
+	"_editorMeta": {
+		"boyfriend": "peashooter calm",
+		"gf": "sunflower gf",
+		"dad": "dad"
+	},
+	"preload": {
+		"images/day/": 3
+	},
+	"girlfriend": [
+		-197,
+		55
+	],
+	"stageUI": "",
+	"boyfriend": [
+		-575,
+		99
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.55,
+	"objects": [
+		{
+			"x": -703,
+			"y": -832,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0,
+				0.1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1868,
+			"y": -474,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/clouds",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "clouds",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.05,
+				0.05
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2008,
+			"y": -29,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/bg mountains",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "mountains",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.1,
+				0.1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1436,
+			"y": 214,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/bushes0003",
+			"flipX": false,
+			"filters": 2,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "bushes",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.95,
+				0.95
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -3102,
+			"y": 166,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/floor",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "floor",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -3333,
+			"y": -1141,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/house",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "house",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": -1282,
+			"y": 583,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/lawnmower",
+			"flipX": false,
+			"filters": 3,
+			"color": "",
+			"angle": 0,
+			"name": "lawnmower",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "boyfriend"
+		},
+		{
+			"x": -238,
+			"y": 683,
+			"scale": [
+				1.05,
+				1.05
+			],
+			"image": "day/chomper honk mimimi0001",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 2510,
+			"y": -542,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/fg tree0004",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "fg-tree",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.4,
+				1.4
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -2863,
+			"y": 1013,
+			"scale": [
+				1,
+				1
+			],
+			"image": "day/fg fences",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.55,
+				1.55
+			],
+			"alpha": 1,
+			"type": "sprite"
+		}
+	],
+	"camera_speed": 0.8,
+	"directory": "week1",
+	"opponent": [
+		-1178,
+		-41
+	],
+	"camera_opponent": [
+		-100,
+		100
+	],
+	"hide_girlfriend": false
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="speaker front.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="speaker idle instância 10000" x="0" y="0" width="166" height="191"/>
+	<SubTexture name="speaker idle instância 10001" x="0" y="0" width="166" height="191"/>
+	<SubTexture name="speaker idle instância 10002" x="166" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10003" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10004" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10005" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10006" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10007" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10008" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10009" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10010" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10011" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10012" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10013" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+	<SubTexture name="speaker idle instância 10014" x="321" y="0" width="155" height="191" frameX="-7" frameY="0" frameWidth="166" frameHeight="191"/>
+</TextureAtlas>

@@ -1,0 +1,36 @@
+{
+	"storyName": "dunno plants",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"final wave",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dead not allawned",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

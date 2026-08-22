@@ -1,0 +1,4 @@
+to be used with the sunflower script
+
+v1 = amount sun is drained every second
+the drain is tweened across frames.

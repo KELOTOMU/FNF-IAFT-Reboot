@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [14, 18],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-4, 0],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BF idle shaking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-10, -16],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "psdeath"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "psdeath"
+		},
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "psdeath"
+		},
+		{
+			"loop": false,
+			"offsets": [96, 36],
+			"anim": "hey",
+			"fps": 24,
+			"name": "psheycalm",
+			"indices": []
+		},
+		{
+			"offsets": [-105, -25],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "psupcalm"
+		},
+		{
+			"offsets": [-105, 11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "psupmisscalm"
+		},
+		{
+			"offsets": [-39, -95],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "psdownmisscalm"
+		},
+		{
+			"loop": false,
+			"offsets": [-99, -17],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "psleftcalm instância",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-99, -17],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "psleftcalmmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [57, -85],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "psrightcalm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [57, -63],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "psrightmisscalm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [98, -57],
+			"anim": "attack",
+			"fps": 24,
+			"name": "psattack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-5, -54],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "pspreattack",
+			"indices": []
+		},
+		{
+			"offsets": [-67, -62],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "psidlecalm"
+		},
+		{
+			"offsets": [-40, -121],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "psdowncalm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/peashooter calm",
+	"position": [10, 330],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [49, 196, 49],
+	"camera_position": [-30, 50],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fich.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle1" x="0" y="0" width="73" height="63" frameX="-9" frameY="-9" frameWidth="86" frameHeight="73"/>
+	<SubTexture name="idle2" x="73" y="0" width="86" height="73"/>
+	<SubTexture name="idle3" x="159" y="0" width="77" height="65" frameX="-6" frameY="-7" frameWidth="86" frameHeight="73"/>
+</TextureAtlas>

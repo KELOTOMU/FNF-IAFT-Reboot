@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="balloon.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle1" x="0" y="0" width="124" height="254"/>
+	<SubTexture name="idle2" x="124" y="0" width="124" height="254"/>
+	<SubTexture name="idle3" x="248" y="0" width="124" height="254"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+Value 1 = sprite name
+Value 2 = color,time,ease
+
+Value 2 must be formatted with each variable separated
+by commas without spaces. Ex:
+RRGGBB,5,linear

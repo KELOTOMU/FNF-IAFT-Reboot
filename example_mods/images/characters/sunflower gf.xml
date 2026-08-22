@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunflower gf.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sfsunspawn instância 10000" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10001" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10002" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10003" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10004" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10005" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10006" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10007" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10008" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10009" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10010" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10011" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10012" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10013" x="0" y="0" width="261" height="250" frameX="-51" frameY="-74" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10014" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10015" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10016" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10017" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10018" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10019" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10020" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10021" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10022" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10023" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10024" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10025" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10026" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sfsunspawn instância 10027" x="261" y="0" width="259" height="379" frameX="0" frameY="0" frameWidth="312" frameHeight="379"/>
+	<SubTexture name="sunflower dance right instância 10000" x="520" y="0" width="282" height="366" frameX="-5" frameY="-7" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10001" x="520" y="0" width="282" height="366" frameX="-5" frameY="-7" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10002" x="802" y="0" width="283" height="365" frameX="-5" frameY="-8" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10003" x="802" y="0" width="283" height="365" frameX="-5" frameY="-8" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10004" x="1085" y="0" width="281" height="367" frameX="-5" frameY="-6" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10005" x="1085" y="0" width="281" height="367" frameX="-5" frameY="-6" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10006" x="1366" y="0" width="281" height="368" frameX="-4" frameY="-5" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10007" x="1647" y="0" width="280" height="371" frameX="-1" frameY="-2" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10008" x="0" y="379" width="280" height="371" frameX="-1" frameY="-2" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10009" x="0" y="379" width="280" height="371" frameX="-1" frameY="-2" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10010" x="280" y="379" width="279" height="372" frameX="0" frameY="-1" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10011" x="280" y="379" width="279" height="372" frameX="0" frameY="-1" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10012" x="280" y="379" width="279" height="372" frameX="0" frameY="-1" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10013" x="559" y="379" width="279" height="373" frameX="0" frameY="0" frameWidth="288" frameHeight="373"/>
+	<SubTexture name="sunflower dance right instância 10014" x="559" y="379" width="279" height="373" frameX="0" frameY="0" frameWidth="288" frameHeight="373"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="birbs.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle1" x="0" y="0" width="465" height="185" frameX="-5" frameY="0" frameWidth="510" frameHeight="185"/>
+	<SubTexture name="idle2" x="465" y="0" width="484" height="172" frameX="-3" frameY="-11" frameWidth="510" frameHeight="185"/>
+	<SubTexture name="idle3" x="0" y="185" width="496" height="124" frameX="0" frameY="-60" frameWidth="510" frameHeight="185"/>
+	<SubTexture name="idle4" x="496" y="185" width="510" height="132" frameX="0" frameY="-51" frameWidth="510" frameHeight="185"/>
+</TextureAtlas>

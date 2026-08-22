@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sun.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="suncol 10000" x="0" y="0" width="183" height="178" frameX="0" frameY="0" frameWidth="184" frameHeight="179"/>
+	<SubTexture name="suncol 10001" x="183" y="0" width="178" height="169" frameX="-6" frameY="-10" frameWidth="184" frameHeight="179"/>
+	<SubTexture name="suncol 10002" x="0" y="178" width="171" height="166" frameX="-13" frameY="-8" frameWidth="184" frameHeight="179"/>
+</TextureAtlas>

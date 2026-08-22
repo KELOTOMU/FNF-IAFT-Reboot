@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="peashooter calm.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="psattack instância 10000" x="0" y="0" width="494" height="278"/>
+	<SubTexture name="psdowncalm instância 10000" x="494" y="0" width="283" height="278"/>
+	<SubTexture name="psdownmisscalm instância 10000" x="777" y="0" width="283" height="278" frameX="0" frameY="-37" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10001" x="777" y="0" width="283" height="278" frameX="0" frameY="-37" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10002" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10003" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10004" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10005" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10006" x="1620" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10007" x="1620" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10008" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10009" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10010" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10011" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10012" x="1620" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10013" x="1620" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10014" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10015" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10016" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10017" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10018" x="1620" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10019" x="1620" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10020" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10021" x="1060" y="0" width="280" height="318" frameX="-4" frameY="0" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10022" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psdownmisscalm instância 10023" x="1340" y="0" width="280" height="317" frameX="-4" frameY="-1" frameWidth="284" frameHeight="318"/>
+	<SubTexture name="psheycalm instância 10000" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10001" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10002" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10003" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10004" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10005" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10006" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10007" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10008" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10009" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10010" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10011" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10012" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10013" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10014" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10015" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10016" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10017" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10018" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10019" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10020" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10021" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10022" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10023" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10024" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psheycalm instância 10025" x="0" y="318" width="477" height="470"/>
+	<SubTexture name="psidlecalm instância 10000" x="477" y="318" width="294" height="343"/>
+	<SubTexture name="psleftcalm instância 10000" x="771" y="318" width="325" height="396"/>
+	<SubTexture name="psleftcalmmiss instância 10000" x="771" y="318" width="325" height="396"/>
+	<SubTexture name="psleftcalmmiss instância 10001" x="771" y="318" width="325" height="396"/>
+	<SubTexture name="psleftcalmmiss instância 10002" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10003" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10004" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10005" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10006" x="0" y="788" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10007" x="0" y="788" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10008" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10009" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10010" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10011" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10012" x="0" y="788" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10013" x="0" y="788" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10014" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10015" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10016" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10017" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10018" x="0" y="788" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10019" x="0" y="788" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10020" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10021" x="1096" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10022" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10023" x="1425" y="318" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="psleftcalmmiss instância 10024" x="0" y="788" width="329" height="389" frameX="-6" frameY="-8" frameWidth="335" frameHeight="397"/>
+	<SubTexture name="pspreattack instância 10000" x="329" y="788" width="357" height="342"/>
+	<SubTexture name="psrightcalm instância 10000" x="686" y="788" width="399" height="323"/>
+	<SubTexture name="psrightmisscalm instância 10000" x="1085" y="788" width="399" height="322" frameX="0" frameY="-23" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10001" x="1085" y="788" width="399" height="322" frameX="0" frameY="-23" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10002" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10003" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10004" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10005" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10006" x="380" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10007" x="380" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10008" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10009" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10010" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10011" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10012" x="380" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10013" x="380" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10014" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10015" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10016" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10017" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10018" x="380" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10019" x="380" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10020" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10021" x="1484" y="788" width="380" height="339" frameX="-14" frameY="-3" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10022" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psrightmisscalm instância 10023" x="0" y="1177" width="380" height="342" frameX="-14" frameY="0" frameWidth="399" frameHeight="345"/>
+	<SubTexture name="psupcalm instância 10000" x="760" y="1177" width="274" height="384"/>
+	<SubTexture name="psupmisscalm instância 10000" x="760" y="1177" width="274" height="384" frameX="0" frameY="-36" frameWidth="274" frameHeight="384"/>
+	<SubTexture name="psupmisscalm instância 10001" x="760" y="1177" width="274" height="384" frameX="0" frameY="-36" frameWidth="274" frameHeight="384"/>
+	<SubTexture name="psupmisscalm instância 10002" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10003" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10004" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10005" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10006" x="1540" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10007" x="1540" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10008" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10009" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10010" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10011" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10012" x="1540" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10013" x="1540" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10014" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10015" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10016" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10017" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10018" x="1540" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10019" x="1540" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10020" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10021" x="1034" y="1177" width="253" height="418" frameX="-15" frameY="0" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10022" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+	<SubTexture name="psupmisscalm instância 10023" x="1287" y="1177" width="253" height="417" frameX="-15" frameY="-1" frameWidth="274" frameHeight="420"/>
+</TextureAtlas>

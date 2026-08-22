@@ -1,0 +1,54 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/day/sky": 3,
+		"images/day/clouds": 3,
+		"images/day/baseplate0002": 3,
+		"images/day/fences": 2,
+		"images/day/house": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "dad",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1370,
+		100
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		130
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.3,
+	"objects": [
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"opponent": [
+		-900,
+		100
+	],
+	"directory": "weektest",
+	"camera_speed": 0.8,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		0,
+		0
+	]
+}
