@@ -38,6 +38,8 @@ class MainMenuState extends MusicBeatState
 	var selectorLeftTween:FlxTween;
 	var selectorRightTween:FlxTween;
 
+	var spirals:FlxSpriteGroup;
+
 	static var showOutdatedWarning:Bool = true;
 	override function create()
 	{
@@ -77,16 +79,14 @@ class MainMenuState extends MusicBeatState
 		mic.angularVelocity = -20;
 		FlxTween.tween(mic, {y: mic.y + 30}, 2.5, {ease: FlxEase.quadInOut, type: PINGPONG});
 
-		var spirals:FlxSpriteGroup = new FlxSpriteGroup();
+		spirals = new FlxSpriteGroup();
 		add(spirals);
 
-		var spiral1:FlxSprite = new FlxSprite(118, 534);
+		var spiral1:FlxSprite = new FlxSprite(325, 500);
 		spirals.add(spiral1);
-
-		var spiral2:FlxSprite = new FlxSprite(119, 134);
+		var spiral2:FlxSprite = new FlxSprite(50, 225);
 		spirals.add(spiral2);
-
-		var spiral3:FlxSprite = new FlxSprite(1114, 588);
+		var spiral3:FlxSprite = new FlxSprite(1115, 500);
 		spirals.add(spiral3);
 
 		spirals.forEach(function(spiral:FlxSprite)
@@ -97,6 +97,13 @@ class MainMenuState extends MusicBeatState
 			spiral.blend = ADD;
 			spiral.angularVelocity = FlxG.random.int(-10, 10);
 		});
+		spiral1.setGraphicSize(spiral1.width * 0.65);
+		spiral1.updateHitbox();
+		spiral2.setGraphicSize(spiral2.width * 1.25);
+		spiral2.updateHitbox();
+		spiral2.flipX = true;
+		spiral3.setGraphicSize(spiral3.width * 1.35);
+		spiral3.updateHitbox();
 
 		menuItems = new FlxTypedGroup<FlxSprite>();
 		add(menuItems);
