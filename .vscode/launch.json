@@ -8,7 +8,7 @@
             "name": "HXCPP",
             "type": "hxcpp",
             "request": "launch",
-            "program": "${workspaceFolder}/debug/windows/bin/IAFT.exe"
+            "program": "${workspaceFolder}/export/debug/windows/bin/IAFT.exe"
         }
     ]
 }
