@@ -485,7 +485,9 @@ class PlayState extends MusicBeatState
 		timeTxt.alpha = 0;
 		timeTxt.borderSize = 2;
 		timeTxt.visible = updateTime = showTime;
-		if(ClientPrefs.data.downScroll) timeTxt.y = FlxG.height - 44;
+		var timeTxtY:Float = timeTxt.y;
+		if (ClientPrefs.data.downScroll)
+			timeTxt.y = FlxG.height - timeTxt.height - timeTxtY - 55;
 		if(ClientPrefs.data.timeBarType == 'Song Name') timeTxt.text = SONG.song;
 
 		timeBar = new Bar(0, timeTxt.y + (timeTxt.height / 4), 'timeBar', function() return songPercent, 0, 1);
@@ -493,8 +495,15 @@ class PlayState extends MusicBeatState
 		timeBar.screenCenter(X);
 		timeBar.alpha = 0;
 		timeBar.visible = showTime;
+		timeBar.barOffset.set(25, 14);
+		timeBar.barWidth = 395;
+		timeBar.barHeight = 46;
 		uiGroup.add(timeBar);
 		uiGroup.add(timeTxt);
+
+		var redFlag:BGSprite = new BGSprite('redFlag', timeBar.x, timeBar.y, 0, 0);
+		redFlag.x -= redFlag.width;
+		uiGroup.add(redFlag);
 
 		noteGroup.add(strumLineNotes);
 
@@ -526,13 +535,17 @@ class PlayState extends MusicBeatState
 		FlxG.worldBounds.set(0, 0, FlxG.width, FlxG.height);
 		moveCameraSection();
 
-		healthBar = new Bar(0, FlxG.height * (!ClientPrefs.data.downScroll ? 0.89 : 0.11), 'healthBar', function() return health, 0, 2);
+		healthBar = new Bar(0, FlxG.height * (!ClientPrefs.data.downScroll ? 0.85 : 0.15), 'healthBar', function() return health, 0, 2);
 		healthBar.screenCenter(X);
 		healthBar.leftToRight = false;
 		healthBar.scrollFactor.set();
 		healthBar.visible = !ClientPrefs.data.hideHud;
 		healthBar.alpha = ClientPrefs.data.healthBarAlpha;
 		reloadHealthBarColors();
+		healthBar.bg.y -= 125;
+		healthBar.barOffset.set(41, 98);
+		healthBar.barWidth = 559;
+		healthBar.barHeight = 54;
 		uiGroup.add(healthBar);
 
 		iconP1 = new HealthIcon(boyfriend.healthIcon, true);
